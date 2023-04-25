@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 🖥️Estou cursando Análise e Desenvolvimento de Sistemas<br>🐱‍💻 Aprendendo Hacking, e desenvolvimento Front/Back-end<br>💯Melhorando cada dia mais para ser trava zaper 😎
 
 
