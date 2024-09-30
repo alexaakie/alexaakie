@@ -1,5 +1,5 @@
 # 💫 About Me/Sobre mim:
-🖥️Estou cursando Análise e Desenvolvimento de Sistemas<br>🐱‍💻  desenvolvimento Front/Back-end<br>
+🖥️Estou cursando Análise e Desenvolvimento de Sistemas<br>🐱‍💻  desenvolvimento Full-Stack<br>
 
 ## 🌐 Socials/Redes Sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alexsandro.fischer) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alexsandro-fischer-18bb19242) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/alexakie) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AlexsandroFisc) 
